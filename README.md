@@ -38,3 +38,8 @@ financial-chatbot/
 ├── financial_chatbot.py      # Main Python chatbot program
 ├── financial_data.csv        # Sample financial dataset
 └── README.md                 # Project documentation
+## 🎥 Project Demo
+
+Watch the chatbot answering financial question
+
+https://github.com/user-attachments/assets/6788c7da-dca6-4890-b7c6-a85ca48c5457s.

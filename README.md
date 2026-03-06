@@ -42,4 +42,6 @@ financial-chatbot/
 
 Watch the chatbot answering financial question
 
-https://github.com/user-attachments/assets/6788c7da-dca6-4890-b7c6-a85ca48c5457s.
+https://github.com/user-attachments/assets/55da6bae-3d07-4508-a436-7eef64b5d91c
+
+

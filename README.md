@@ -32,3 +32,9 @@ This project was developed as part of a **Generative AI job simulation** to demo
 ---
 
 ## 📂 Project Structure
+
+financial-chatbot/
+│
+├── financial_chatbot.py      # Main Python chatbot program
+├── financial_data.csv        # Sample financial dataset
+└── README.md                 # Project documentation
